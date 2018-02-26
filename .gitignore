@@ -1,0 +1,15 @@
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+
+**/__pycache_/*
+
+.DS_Store
+
+# data目录里的训练和测试数据
+/data/train.zip
+/data/test.zip
+/data/train/
+/data/test/
+
